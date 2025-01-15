@@ -34,6 +34,8 @@ The project aims to simplify the process of generating creative usernames that s
 
 ### Screenshots
 
+![image](https://github.com/user-attachments/assets/cd420a69-65ad-4904-b606-55076e9497be)
+
 
 ### How it works
 
@@ -50,4 +52,24 @@ The project aims to simplify the process of generating creative usernames that s
 
 ### Technologies Used
 
+Backend:
+ - Flask: A lightweight Python web framework for handling API requests and rendering templates.
+ - Flask-CORS: To handle cross-origin resource sharing for API requests.
+
+Frontend:
+ - HTML5: For structuring the webpage.
+ - CSS3: For styling the webpage with a modern look and feel.
+ - JavaScript: For handling user interactions and connecting the frontend with the backend.
+
+### Future enhancements
+
+- Add user authentication for personalized settings.
+- Provide theme customization options (dark mode).
+- Allow exporting generated usernames as a text or CSV file.
+- Support additional customization options like including emojis or certain prefixes/suffixes.
+
+### Contact
+Name: Shreya. S
+Email: shreyasuresh3107@gmail.com
+linkdn: www.linkedin.com/in/shreya-suresh-620922256
 
