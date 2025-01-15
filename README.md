@@ -69,7 +69,7 @@ Frontend:
 - Support additional customization options like including emojis or certain prefixes/suffixes.
 
 ### Contact
-Name: Shreya. S
-Email: shreyasuresh3107@gmail.com
-linkdn: www.linkedin.com/in/shreya-suresh-620922256
+- Name: Shreya. S
+- Email: shreyasuresh3107@gmail.com
+- linkdn: www.linkedin.com/in/shreya-suresh-620922256
 
